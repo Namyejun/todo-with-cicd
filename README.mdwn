@@ -74,3 +74,5 @@ test#20 202409121731
 test#21 202409121737 pipeline sudo 뻼
 
 test#22 202409121739 gradle build에 trace 추가
+
+test#23 202409121744 sudo 추가 및 비번 입력
