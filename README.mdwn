@@ -78,3 +78,5 @@ test#22 202409121739 gradle build에 trace 추가
 test#23 202409121744 sudo 추가 및 비번 입력
 
 test#24 202409131430 백그라운드 & 추가
+
+test#25 202409131500 세션 종료되도 돌도록 nohup 추가 및 npm install 추가
