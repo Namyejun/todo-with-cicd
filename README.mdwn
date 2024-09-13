@@ -76,3 +76,5 @@ test#21 202409121737 pipeline sudo 뻼
 test#22 202409121739 gradle build에 trace 추가
 
 test#23 202409121744 sudo 추가 및 비번 입력
+
+test#24 202409131430 백그라운드 & 추가
